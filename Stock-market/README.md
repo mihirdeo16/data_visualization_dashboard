@@ -9,7 +9,7 @@ Real-time stock analysis of **S&P 500 US-companies** :chart_with_upwards_trend:,
 
 Choose the **company** from the dropdown and select *trading session (daily, weekly, monthly)*  and click ***Accenture***	:dart:
 
-![Dashborad](../assets/stock_analyzer.png)
+![Dashborad](../assets/dashboards/stock-mark.png)
 
 To run the dashboard, attach API key to the script.
 ```python

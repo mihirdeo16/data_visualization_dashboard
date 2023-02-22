@@ -3,6 +3,4 @@
 
 Visualize through 3D-visualization.
 
-![assets/hr_employee_hourly_rate_3d.png](../assets/hr_employee_hourly_rate_3d.png)
-
-![](../assets/hr_employee_3d.gif)
+![assets/hr_employee_hourly_rate_3d.png](../assets/dashboards/hr-employee.png)

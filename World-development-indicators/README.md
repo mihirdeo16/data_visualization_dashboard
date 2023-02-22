@@ -10,4 +10,4 @@ Following dashboard can be directly deployed using following command :
 panel serve --show Dashborad_hvplot.ipynb 
 ```
 
-![dashborad](https://github.com/mihir-workspace/data_visualization_dashboard/blob/main/World%20Development%20Indicators/dashborad.png)
+![dashborad](../assets/dashboards/world-development-indicators.png)

@@ -8,7 +8,7 @@ https://observablehq.com/@deomihir_7/forbes-global-2000-for-2021@685
 
 Dashboard:
 
-![Forbes-GLOBAL-2000-for-2021-Observable](assets/dashboards/Forbes-GLOBAL-2000-for-2021-Observable.png)
+![Forbes-GLOBAL-2000-for-2021-Observable](../assets/dashboards/Forbes-GLOBAL-2000-for-2021-Observable.png)
 
 View this notebook in your browser by running a web server in this folder. 
 

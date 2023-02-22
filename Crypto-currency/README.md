@@ -7,7 +7,7 @@ Real-time crypto currency analysis of 562 crypto currencies with exchange rate i
 * Plotly
 * Alpha-vintage
 
-![Sample Preview](../assets/crypto_analysis.png)
+![Sample Preview](../assets/dashboards/crypto-curreny.png)
 
 To run the dashboard, attach API key to the script.
 

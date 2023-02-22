@@ -5,10 +5,10 @@ Understand the keywords that headline use to and topic choose, for the articles.
 
 
 #### Towards Data Science
-![Towards Data Science](../assets/Towards_Data_Science.png)
+![Towards Data Science](../assets/dashboards/Towards-data-science.png)
 
 #### Better Marketing
-![Better Marketing](../assets/Better_Marketing.png)
+![Better Marketing](../assets/dashboards/Better-marketing.png)
 
 
 
