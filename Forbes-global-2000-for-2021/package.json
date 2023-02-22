@@ -1,0 +1,14 @@
+{
+  "name": "@deomihir_7/forbes-global-2000-for-2021",
+  "main": "735f3af69d79bbb6@685.js",
+  "version": "685.0.0",
+  "homepage": "https://observablehq.com/@deomihir_7/forbes-global-2000-for-2021",
+  "author": {
+    "name": "mihr deo",
+    "url": "https://observablehq.com/@deomihir_7"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
