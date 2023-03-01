@@ -26,8 +26,10 @@
 </p>
 
 ### Index
-+ [Stock-Analyzer :moneybag: :chart_with_upwards_trend: :heavy_dollar_sign: :dart:](Stock_analyzer/README.md)
-+ [CryptoCurrency Analyzer :moneybag: :chart_with_upwards_trend: :coin:](Crypto_currency_analysis/README.md)
-+ [Medium articles word cloud :cloud:](Medium_articles_word_cloud/Readme.md)
-+ [Employee number trend with hourly rate in 3D plot :office_worker:](HR_employee/README.md)
-
++ [Crop production :corn: :potato: ](Crypto-currency/README.md)
++ [Crypto currency analyzer :moneybag: :chart_with_upwards_trend: :coin:](Crypto-currency/README.md)
++ [Forbes global 200 companies analysis :office: :building_construction:](Forbes-global-2000-for-2021/README.md)
++ [Hamburger raw ingredients analysis :hamburger:](Hamburger-production/README.md)
++ [Word cloud of famous articles contents :cloud:](Medium-articles/Readme.md)
++ [Stock market analyzer :moneybag: :chart_with_upwards_trend: :heavy_dollar_sign: :dart:](Stock-market/README.md)
++ [World development across different indicator analysis :earth_asia: :world_map:](World-development-indicators/README.md)
