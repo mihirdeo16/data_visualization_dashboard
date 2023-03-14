@@ -26,7 +26,7 @@
 </p>
 
 ### Index
-+ [Crop production :corn: :potato: ](Crypto-currency/README.md)
++ [Crop production :corn: :potato: ](Crop-production/README.md)
 + [Crypto currency analyzer :moneybag: :chart_with_upwards_trend: :coin:](Crypto-currency/README.md)
 + [Forbes global 200 companies analysis :office: :building_construction:](Forbes-global-2000-for-2021/README.md)
 + [Hamburger raw ingredients analysis :hamburger:](Hamburger-production/README.md)
