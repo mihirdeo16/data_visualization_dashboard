@@ -2,7 +2,7 @@
 
 *The repository offers a way to create creative, informative data visualizations, interactive graphs, and dashboards using various programming languages, frameworks, and tools. All the data used is open-source and has been collected from various sources across the web.*
 
-<img src="https://raw.githubusercontent.com/mihirdeo16/data_visualization_dashboard/main/assets/Cover.png" alt="Cover Page" width="1032" height="432"/>
+<img src="https://raw.githubusercontent.com/mihirdeo16/data_visualization_dashboard/main/assets/Cover.png" alt="Cover Page" width="860" height="360"/>
 <!-- Ref: https://red-route.org/code/image-resizing-calculator -->
 
 ### Tools used to build the visualizations.
