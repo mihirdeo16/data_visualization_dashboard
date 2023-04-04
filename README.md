@@ -2,7 +2,7 @@
 
 *The repository offers a way to create creative, informative data visualizations, interactive graphs, and dashboards using various programming languages, frameworks, and tools. All the data used is open-source and has been collected from various sources across the web.*
 
-<!-- <img src="https://raw.githubusercontent.com/mihirdeo16/data_visualization_dashboard/main/assets/poster_dashbord.png" alt="python" width="800" height="500"/> -->
+<img src="https://raw.githubusercontent.com/mihirdeo16/data_visualization_dashboard/main/assets/Cover.png" alt="Cover Page" width="800" height="500"/>
 
 
 ### Tools used to build the visualizations.
